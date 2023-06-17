@@ -10,24 +10,35 @@ I'm currently working on AudiobookService and portfolio<br>I'm currently learnin
 ## Some experience
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
+<p align="center" width="100%">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true" />
+  </picture>
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Straicur&theme=tokyonight-duo&border_radius=30&card_width=1050)
 
 <p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Straicur&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&layout=donut&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&layout=donut)"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&layout=donut)" />
+  </picture>
 </p>
-<p align="center" width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Straicur&theme=dark&hide_border=false" align="center">
-</p>
-<p align="center" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" align="center">
-</p>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Straicur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Straicur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-<!-- ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
 
 [![](https://visitcount.itsvg.in/api?id=Straicur&icon=2&color=8)](https://visitcount.itsvg.in)
 
