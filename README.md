@@ -13,14 +13,14 @@ I'm currently working on AudiobookService and portfolio<br>I'm currently learnin
 <p align="center" width="100%">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-stats-beige-seven-27.vercel.app/api?username=Straicur&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true"
+      srcset="https://github-readme-stats-beige-seven-27.vercel.app/api?username=Straicur&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true" />
+    <img src="https://github-readme-stats-beige-seven-27.vercel.app/api?username=Straicur&show_icons=true" />
   </picture>
 </p>
 
@@ -29,14 +29,14 @@ I'm currently working on AudiobookService and portfolio<br>I'm currently learnin
 <p align="center" width="100%">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&layout=donut&theme=tokyonight"
+      srcset="https://github-readme-stats-beige-seven-27.vercel.app/api/top-langs/?username=Straicur&layout=donut&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&layout=donut)"
+      srcset="https://github-readme-stats-beige-seven-27.vercel.app/api?username=Straicur&show_icons=true](https://github-readme-stats-beige-seven-27.vercel.app/api/top-langs/?username=Straicur&layout=donut)"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Straicur&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Straicur&layout=donut)" />
+    <img src="https://github-readme-stats-beige-seven-27.vercel.app/api?username=Straicur&show_icons=true](https://github-readme-stats-beige-seven-27.vercel.app/api/top-langs/?username=Straicur&layout=donut)" />
   </picture>
 </p>
 
