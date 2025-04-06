@@ -33,6 +33,7 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats-nu-gules.vercel.app?user=Straicur&theme=tokyonight-duo&border_radius=30&date_format=n%2Fj%5B%2FY%5D&card_width=1050)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nu-gules.vercel.app?user=Straicur&theme=tokyonight-duo&hide_border=true&border_radius=30&locale=pl&date_format=j%2Fn%5B%2FY%5D&card_width=1050)](https://git.io/streak-stats)
 
 <p align="center" width="100%">
   <picture>
